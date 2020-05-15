@@ -20,7 +20,7 @@
 """
 
 Make a python program that asks the user for a choice of what they want to
-convert (3 choices in a menu style). The options will be minutes to seconds,
+convert (4 choices in a menu style). The options will be minutes to seconds,
 seconds to minutes, hours to minutes. And hours to days.
 Should output as "x number of days and y number of hours"
 
