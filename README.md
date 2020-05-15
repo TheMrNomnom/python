@@ -15,3 +15,13 @@
 2. Write a program that has uses a function to get the even numbers from a list ([1, 2, 3, 4, 5, 6, 7, 8, 9])
 3. Write a program that has two functions: #1 add all the numbers in a given list; #2 multiply all the numbers in a given list
 """
+
+5/15
+"""
+
+Make a python program that asks the user for a choice of what they want to
+convert (3 choices in a menu style). The options will be minutes to seconds,
+seconds to minutes, hours to minutes. And hours to days.
+Should output as "x number of days and y number of hours"
+
+"""
