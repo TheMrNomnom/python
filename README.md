@@ -25,3 +25,13 @@ seconds to minutes, hours to minutes. And hours to days.
 Should output as "x number of days and y number of hours"
 
 """
+
+
+5/22
+
+"""
+Create a to-do list program in Python. This app should take input from
+the user to see their completed tasks, to-do tasks, and if they would like
+to add or remove tasks, or if they would like to mark a task as completed.
+Bonus: allow the user to modify multiple tasks at the same time.
+"""
