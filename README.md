@@ -35,3 +35,13 @@ the user to see their completed tasks, to-do tasks, and if they would like
 to add or remove tasks, or if they would like to mark a task as completed.
 Bonus: allow the user to modify multiple tasks at the same time.
 """
+
+"""
+5/31
+Final project!
+Pick one of these options:
+1. Make a twitter bot in Python.
+2. Password Generator – Make a random password generator for your friends and family to keep their accounts secure! Skills used: Random library & sequencing.
+3. Secret Cipher – Generate and decipher secret ciphers. This works well with a fellow programmer where one of you makes a cipher and the other deciphers the secret message. Skills used: Encryption methods.
+4. Login program - Take a username and password input and compare to a .txt database to see if the user is authorized. Skills used: File I/O, inputs, print statements, functions.
+"""
